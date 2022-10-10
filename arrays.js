@@ -58,11 +58,10 @@ var JocusPocus = [
     {wish: "faire", reality: "koko"},
     {wish: "faire", reality: "keke"}
 ]
-var DaJocusPocus = JocusPocus.reduce(function(contador, elemento) {if (elemento.wish === "tri") {return contador + 1} else {return contador} }, 0)
-console.log(DaJocusPocus)
-var DaJocusPocus2 = JocusPocus.reduce(function(contador, elemento) {if (elemento.reality === "keke") {return contador + 1} else {return contador} }, 0)
-console.log(DaJocusPocus2)
+
+console.log(JocusPocus.reduce(function(contador, elemento) {if (elemento.reality === "keke") {return contador + 1} else {return contador} }, 0),)
 
 var números = [23, 43, 10, 3, 9, 5, 13, 12, 65, 56, 33, 44, 33, 234, 453456]
 var CuentaNúmeros = números.reduce(function(contador, elemento) {return contador + elemento})
 console.log(CuentaNúmeros)
+
