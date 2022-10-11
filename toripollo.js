@@ -54,3 +54,12 @@ var números = [23, 43, 10, 3, 9, 5, 13, 12, 65]
 números.splice(3,4,"h", "i", "j")
 console.log(números)
 
+var conteo = function(milisegundos) {setTimeout(function(){var segundos = (milisegundos/1000); console.log(`el tiempo transcurrido es: ${segundos} segundos perro`);}, milisegundos);}
+conteo(5000)
+conteo(9000)
+conteo(12000)
+
+var regression = function(milisegundos) {setTimeout(function() {var segundos = (milisegundos/1000); console.log(`en esta ocasión el tiempo será de ${segundos} segundos broo`);}, milisegundos);}
+regression(7000)
+regression(10000)
+regression(15000)
