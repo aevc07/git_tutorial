@@ -1,0 +1,68 @@
+/**
+p {
+color: blue;
+width: 340px;
+font-weight: bold;
+}
+h1 {
+color: blueviolet;
+width: 400px;
+}
+h2 {
+color: darkorange;
+width: 500px;
+}
+h3 {
+color: green;
+width: 250px;
+}
+h4 {
+color: darkolivegreen;
+width: 760px;
+}
+span {
+color: hotpink;
+width: 100px;
+font-weight: lighter;
+}
+*/
+
+*{
+    color: darkgreen;
+    width: 500px;
+   
+}
+
+p, span, h1 {
+    padding: 35px;
+    margin-top: 57px;
+    margin-bottom: 200px;
+    margin-left: 150px;
+    margin-right: 300px;
+    border: blue;
+    border-width: 600px;
+}
+#bastardo_diferente {
+    color: black;
+    margin-top: 54px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    margin-right: 90px;
+}
+
+h2, h3, h4 {
+    font-weight: bolder;
+    padding: 120px;
+    margin-top: 130px;
+    margin-bottom: 300px;
+    margin-left: 180px;
+    margin-right: 200px;
+    border: indigo;
+    border-width: 340px;
+}
+
+.thisfuckingclass {
+    color: orangered;
+    font-weight: bold;
+    text-align: center
+   } 
