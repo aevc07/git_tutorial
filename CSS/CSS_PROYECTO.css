@@ -1,0 +1,143 @@
+body{
+    background-color: lightgreen;
+ } 
+
+img {
+    display: block;
+    margin: auto;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    background-color: azure;
+    color: darkblue;
+    width: 900px;
+    padding: 4px;
+    margin: 3px;
+    border: 3px solid lightseagreen
+    }
+
+h2 {
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    color: darkgreen;
+    background-color: darkgrey ;
+    width: 900px;
+    padding: 4px;
+    margin: 3px;
+    border: 3px solid lightseagreen
+    }
+
+h4 {
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    color: blueviolet;
+    background-color: darkkhaki;
+    width: 900px;
+    padding: 4px;
+    margin: 3px;
+    border: 3px solid lightseagreen
+    }
+
+.first_order {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: midnightblue;
+    font-weight: bold;
+    text-align: left;
+    }
+
+#final_order {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: green;
+    font-weight: bold;
+   text-align: left
+   } 
+
+.changingtimes {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: green;
+    font-weight: bold;
+    text-align: center
+   } 
+
+#ligera_dif {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: indigo;
+    font-weight: bolder;
+   text-align: center
+   } 
+
+#first_now {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: magenta;
+    font-weight: bold;
+   text-align: center
+   } 
+
+p {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: navy;
+    width: 900px;
+    padding: 4px;
+    margin: 4px;
+    border: 2px solid darkorange
+    }
+
+/**
+.descolocado {
+    width: 600px;
+    }
+*/
+
+li {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: purple;
+    width: 500px;  
+    }
+
+form {
+    font-family: 'Signika Negative', sans-serif;
+    background-color: cornflowerblue;
+    margin: 0 auto; 
+    width: 900px;    
+    padding: 2px; 
+    border-radius: 10px; 
+    }
+
+input, textarea {
+    padding: 5px;
+    }
+
+label {
+        display: block; 
+        padding: 5px;
+    }
+
+span {
+    text-align: center;
+    width: 1000px;
+    padding: 4px;
+    margin: 4px;
+    }
+
+.balkan {
+    text-align: center;
+    background-color: lightsalmon;
+    width: 200px;
+    padding: 4px;
+    margin: 0 auto;
+    border: 4px solid ivory
+    }
+
+.beat {
+    background-color: lightyellow;
+    text-align: center;
+    border: 3px solid;
+    padding: 4px;
+    margin: auto;
+    }
+
+
+
