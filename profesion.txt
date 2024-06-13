@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-algo, algo algo
-=======
-algo, algo, algo 
->>>>>>> 27631596d0bf6984c808fc9c3ab80d36f55db784
